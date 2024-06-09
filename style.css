@@ -1,0 +1,99 @@
+
+.body {
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.tbody {
+    margin-top: 10%;
+    text-align: center;
+    background-color: #91268e;
+    color: white;
+    padding: 40px 0;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-size: 40px;
+}
+
+h2 {
+    text-transform: capitalize;
+    background-color: #91268e;
+    color: white;
+    text-align: center;
+}
+
+.user-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.input-login {
+    width: 500px;
+    height: 20px;
+    padding: 20px;
+    margin: 30px;
+    color: white;
+    background-color:#ee72ea;
+    text-transform: uppercase;
+}
+
+[type="email"] {
+    text-transform: lowercase;
+}
+
+.btn {
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 50px;
+    cursor: pointer;
+    margin-bottom: 50px;
+    box-shadow: 2px solid black;
+    border: 2px solid orangered;
+    transition: 0.3s all;
+}
+
+.btn-1 {
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    box-shadow: 2px solid black;
+    border: 2px solid orangered;
+    transition: 0.3s all;
+}
+
+
+.btn:hover, .btn-1:hover{
+    background-color: #91268e;
+    transform: scale(1.08);
+}
+
+.arrow {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: white;
+}
+
+.t-image {
+    width: 80px;
+    height: 80px;
+}
+
